@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "149758404517",
+    "firebase_url": "https://arapp-892e9-default-rtdb.firebaseio.com",
+    "project_id": "arapp-892e9",
+    "storage_bucket": "arapp-892e9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149758404517:android:9d636e89e769a5010d6a4c",
+        "android_client_info": {
+          "package_name": "com.example.ar_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEpJdOJv0mrxD_Ml5vHaqaGKmYvxhorIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
